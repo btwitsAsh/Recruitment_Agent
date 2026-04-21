@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Virtual environments
+lang3/
+.venv/
+venv/
+
+# Streamlit/cache artifacts
+.streamlit/secrets.toml
