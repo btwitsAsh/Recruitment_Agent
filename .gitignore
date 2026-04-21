@@ -11,3 +11,6 @@ venv/
 
 # Streamlit/cache artifacts
 .streamlit/secrets.toml
+
+# Local secrets
+.env
